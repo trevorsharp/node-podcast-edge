@@ -51,7 +51,7 @@
     "example"
   ],
   "dependencies": {
-    "rss": "git+https://github.com/trevorsharp/node-rss-edge.git#develop"
+    "rss": "git+https://github.com/trevorsharp/node-rss-edge.git#afa853f"
   },
   "devDependencies": {
     "@tsconfig/node16": "^1.0.2",
